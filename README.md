@@ -4,7 +4,7 @@ A social networking platform with automated content moderation and context-based
 
 [Watch Demo](https://youtu.be/Tmncayg7FeU)
 
-![UI-community](https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/UI-community.png)
+![UI-community](https://raw.githubusercontent.com/SamreenMohamme/SocialEcho/main/resources/UI-community.png)
 
 ## Table of Contents
 
@@ -86,7 +86,7 @@ There are three distinct user roles within the system:
 
 ## Schema Diagram
 
-![Schema Diagram](https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/Schema-Diagram.png)
+![Schema Diagram](https://raw.githubusercontent.com/SamreenMohamme/SocialEcho/main/resources/Schema-Diagram.png)
 
 
 
@@ -173,10 +173,7 @@ The admin dashboard can be accessed at the `/admin` route. Use the `admin_tool.s
 
 Moderators have specific email domain (`@mod.socialecho.com`). When registering with an email from this domain, the user is automatically assigned the moderator role. Moderators can be assigned to different communities from the admin dashboard.
 
-#### Demo
-https://youtu.be/Tmncayg7FeU
-
 ## License
 
-This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/SamreenMohamme/SocialEcho/blob/main/LICENSE).
 
