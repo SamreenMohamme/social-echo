@@ -1,8 +1,5 @@
 # SocialEcho
 
-A social networking platform with automated content moderation and context-based authentication system.
-
-[Watch Demo](https://youtu.be/Tmncayg7FeU)
 
 ![UI-community](https://raw.githubusercontent.com/SamreenMohamme/SocialEcho/main/resources/UI-community.png)
 
